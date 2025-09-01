@@ -31,8 +31,8 @@ Please see the respective project websites for full license texts.
 
 This project Jupyter Notebook is licensed under the BSD 3-Clause License. See the LICENSE file for details.
 
-The observation data is copyrighted CSIRO 2021, ["Parkes observations for project PX500 semester 2020OCTS_16"](https://doi.org/10.25919/szds-6x44) by Li D et al. (2021) and is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+This project uses observation data modified from [*Parkes observations for project PX500 semester 2020OCTS_16*](https://doi.org/10.25919/szds-6x44) by Li D. et al., licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). All Rights (including copyright) CSIRO 2021.
 
-## Acknowledgement
+## Acknowledgements
 
 We sincerely thank the National Astronomical Research Institute of Thailand for granting us access to the institute’s high-performance computing infrastructure. Our appreciation also goes to the Australian Telescope National Facility that made the archival data from the Parkes Radio Telescope (Murriyang) publicly available. Murriyang, CSIRO’s Parkes radio telescope, is part of the Australia Telescope National Facility (https://ror.org/05qajvd42) which is funded by the Australian Government for operation as a National Facility managed by CSIRO. We further express gratitude towards Mahidol Wittayanusorn School for funding this research.
