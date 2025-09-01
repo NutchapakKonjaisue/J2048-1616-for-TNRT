@@ -3,7 +3,7 @@ matplotlib==3.8.5
 numpy==1.24.4
 polars==1.8.2
 pymc==5.6.1
-pytensor=2.12.3
+pytensor==2.12.3
 scipy==1.10.1
 seaborn==0.13.2
 pytensor==2.26.4
