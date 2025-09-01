@@ -4,6 +4,7 @@ A Jupyter notebook to reproduce the analyses and figures which appeared in the s
 
 ## Table of Contents
 - [Installation](#installation)
+- [Usage](#usage)
 - [Dependencies](#dependencies)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -11,6 +12,12 @@ A Jupyter notebook to reproduce the analyses and figures which appeared in the s
 ## Installation
 
 Required libraries can be found in the [requirements.txt](requirements.txt) file
+
+## Usage
+
+To fully reproduce the values and figures in the study, the observation data shall be preprocessed into subintegrations; rid of RFI (preferably using an automated pipeline); polarization and flux calibrated; restricted to the frequency bandwidth of the TNRT L-band receiver (1.0–1.8 MHz); frequency scrunched; and combined into a single file. Then, they can be exported as a .csv file.
+
+For ease of use, the ready-to-use modified data in .csv format is provided herewith.
 
 ## Dependencies
 
@@ -29,8 +36,10 @@ Please see the respective project websites for full license texts.
 
 ## License
 
-This project Jupyter Notebook is licensed under the BSD 3-Clause License. See the LICENSE file for details.
+### Jupyter Notebook
+This project Jupyter Notebook is licensed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details.
 
+### Data
 This project uses observation data modified from [*Parkes observations for project PX500 semester 2020OCTS_16*](https://doi.org/10.25919/szds-6x44) by Li D. et al., licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). All Rights (including copyright) CSIRO 2021.
 
 ## Acknowledgements
