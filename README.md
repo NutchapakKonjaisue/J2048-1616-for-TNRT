@@ -17,7 +17,7 @@ Required libraries can be found in the [requirements.txt](requirements.txt) file
 
 To fully reproduce the values and figures in the study, the observation data shall be preprocessed into subintegrations; rid of RFI (preferably using an automated pipeline); polarization and flux calibrated; restricted to the frequency bandwidth of the TNRT L-band receiver (1.0–1.8 MHz); frequency scrunched; and combined into a single file. Then, they can be exported as a .csv file.
 
-For ease of use, the ready-to-use modified data in .csv format is provided herewith.
+For ease of use, the ready-to-use modified data in .csv format is provided herewith (licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
 ## Dependencies
 
